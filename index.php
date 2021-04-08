@@ -1,6 +1,6 @@
 <?php
-	/*emplo de código utilizando variável declarada a partir 
-	  de outra variável
+	/*exemplo de código utilizando variável declarada a partir 
+	  de outra variável.
 	*/
 	echo "<h1>Hello World!</h1><br>";
 	$hello = "Hello";
